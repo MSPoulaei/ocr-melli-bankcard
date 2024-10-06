@@ -84,7 +84,7 @@ The results are displayed by drawing bounding boxes around detected numbers or c
 ## Contributors
 
 - **Mohammad Sadegh Poulai Mozirji**
-- **Saein Aala**
+- **Sayin Ala**
 
 Supervised by:
 
